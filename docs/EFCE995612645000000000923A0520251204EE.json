@@ -8,6 +8,24 @@
       "kid": "EFCE995612645000000000923A0520251204EE",
       "kty": "EC",
       "use": "sig"
+    },
+    {
+      "x": "AISB4JpNeOYkwgC_5y3h6pAJ_jEC-qHS7WxftlnY9zPt",
+      "y": "AJEFgilG954hx25I4A_Tf3_mz0QKjW9psTKoIlnhWBDj",
+      "alg": "ES256",
+      "crv": "P-256",
+      "kid": "EFCE995612645000000000013A0520251222EE",
+      "kty": "EC",
+      "use": "sig"
+    },
+    {
+      "x": "KgRJAuvd8VeznPR5VadsTVCWs_KjqIFnIO7Rydup9go",
+      "y": "KOeXsB_twZBTrNgmNgYBtT1DNChLVddI4dvFNhNmE_0",
+      "alg": "ES256",
+      "crv": "P-256",
+      "kid": "EFCE995612645000000000033A0520251217EE",
+      "kty": "EC",
+      "use": "sig"
     }
   ]
 }
