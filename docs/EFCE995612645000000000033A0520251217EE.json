@@ -1,9 +1,13 @@
 {
-    "x": "KgRJAuvd8VeznPR5VadsTVCWs_KjqIFnIO7Rydup9go",
-    "y": "KOeXsB_twZBTrNgmNgYBtT1DNChLVddI4dvFNhNmE_0",
-    "alg": "ES256",
-    "crv": "P-256",
-    "kid": "EFCE995612645000000000033A0520251217EE",
-    "kty": "EC",
-    "use": "sig"
+    "keys": [
+        {
+            "x": "KgRJAuvd8VeznPR5VadsTVCWs_KjqIFnIO7Rydup9go",
+            "y": "KOeXsB_twZBTrNgmNgYBtT1DNChLVddI4dvFNhNmE_0",
+            "alg": "ES256",
+            "crv": "P-256",
+            "kid": "EFCE995612645000000000033A0520251217EE",
+            "kty": "EC",
+            "use": "sig"
+        }
+    ]
 }
