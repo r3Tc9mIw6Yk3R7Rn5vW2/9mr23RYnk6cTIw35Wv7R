@@ -62,6 +62,15 @@
       "kid": "EFCE995612645000000000153A0520260603EE",
       "kty": "EC",
       "use": "sig"
+    },
+    {
+      "x": "AMFlUEwSla8ZtEt51gqFnAwpNivT7t0BitIzd6wp1gq-",
+      "y": "ALgzgz3GpL7kTijMdvCHWUYmlorxCFjwiDZMVlxYCjom",
+      "alg": "ES256",
+      "crv": "P-256",
+      "kid": "EFCE995612645000000000013A0520260604EE",
+      "kty": "EC",
+      "use": "sig"
     }
   ]
 }
