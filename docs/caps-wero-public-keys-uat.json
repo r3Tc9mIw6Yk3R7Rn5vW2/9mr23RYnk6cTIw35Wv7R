@@ -1,0 +1,40 @@
+{
+  "keys": [
+    {
+      "x": "UP3sJQaGL0ifjF_rhwvSthspHiwNZXG2aYbzrgGHvHs",
+      "y": "Z646Fy8OQJkQBVOEqseZeQhdexAMJyY_rXVPlRZSO4Y",
+      "alg": "ES256",
+      "crv": "P-256",
+      "kid": "EFCE99497200500000000004320520260610EE",
+      "kty": "EC",
+      "use": "sig"
+    },
+    {
+      "x": "AMFlUEwSla8ZtEt51gqFnAwpNivT7t0BitIzd6wp1gq-",
+      "y": "ALgzgz3GpL7kTijMdvCHWUYmlorxCFjwiDZMVlxYCjom",
+      "alg": "ES256",
+      "crv": "P-256",
+      "kid": "EFCE995612645000000000013A0520260604EE",
+      "kty": "EC",
+      "use": "sig"
+    },
+    {
+      "x": "AKEkOgH48A5byIEIeo291H8tquB15PyJbdtKVHzT-eKe",
+      "y": "AL3fCPPjDtgs9oxOJ_ItkylQl3_7B5kTc_05FvtbcCYr",
+      "alg": "ES256",
+      "crv": "P-256",
+      "kid": "EFCE995612645000000000023A0520260610EE",
+      "kty": "EC",
+      "use": "sig"
+    },
+    {
+      "x": "APc2WB2sOWgHGDO8M8NQIqWxi5UdiluX80nWmmHOhePN",
+      "y": "AKj2Nqzu6Oq1GHpk_FOwFjsYvUqsI_EBTnTt5l7X9e5T",
+      "alg": "ES256",
+      "crv": "P-256",
+      "kid": "EFCE995612645000000000033A0520260610EE",
+      "kty": "EC",
+      "use": "sig"
+    }
+  ]
+}
