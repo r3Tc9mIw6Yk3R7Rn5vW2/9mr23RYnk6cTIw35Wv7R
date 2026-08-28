@@ -125,15 +125,6 @@
       "kid": "EFCE995612645000000000213A0520260813EE",
       "kty": "EC",
       "use": "sig"
-    },
-    {
-      "x": "pbKM0hsobz3PAVNkP3kCFE6AXQI1OyC3LILo1BayfHo",
-      "y": "-VWk0LTribJtmmQctqGTFDElvkrlpAnRz65a3gq6NIo",
-      "alg": "ES256",
-      "crv": "P-256",
-      "kid": "019eb0b6-959c-707e-a44d-79f094582736-API-SIGNATURES-PUBLIC",
-      "kty": "EC",
-      "use": "sig"
     }
   ]
 }
